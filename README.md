@@ -12,7 +12,7 @@
 
 <h3> What I Know: </h3>
 
-<p> 
+<p style="margin-right: 20px;"> 
 <a href='https://python.org'><img width=5% height=5% src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"></a>
 <a href='https://svelte.dev'><img width=5% height=5% src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"> </a>
 <a href='https://html.com'><img width=7% height=7% src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
@@ -26,10 +26,4 @@
 
 
 </p>
-
-<style>
-    img {
-        margin-right: 20px;
-    }
-</style>
 <!-- Finish this up later-->
