@@ -24,6 +24,7 @@
 <a href='https://nodejs.org/en'><img width=5% height=5% src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> </a>
 <!-- <a href=''><img width=5% height=5% src=""> <a> -->
 
-
 </p>
+
+<h3> Check out my personal website at <a href="https://canopytree.vercel.app"> canopy.vercel.app </a></h3>
 <!-- Finish this up later-->
