@@ -26,5 +26,5 @@
 
 </p>
 
-<h3> Check out my personal website at <a href="https://canopytree.vercel.app"> canopytree.vercel.app </a> (WIP) </h3>
+<h3> Check out my personal website at <a href="https://canopytree.vercel.app"> canopytree.vercel.app </a> </h3>
 <!-- Finish this up later-->
