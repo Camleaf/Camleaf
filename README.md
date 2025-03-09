@@ -6,7 +6,7 @@
 <div style="text-align:center;">
 <h3> I'm a high school student and aspiring software engineer</h3>
 <p> 🌱 I’m currently learning Svelte + Tailwindcss </p>
-<p> 🔭 I’m currently working on a personal website using Svelte</p>
+<p> 🔭 I’m currently working on a redstone cpu emulator with TheFandit</p>
 
 </div>
 
