@@ -6,7 +6,7 @@
 <div style="text-align:center;">
 <h3> I'm a high school student and aspiring software engineer</h3>
 <p> 🌱 I’m currently learning CAD and PCB design softwares </p>
-<p> 🔭 I’m currently working on a three wheel swerve drive robot
+<p> 🔭 I’m currently working on a new backend with FastAPI for the MechMania website
 
 </div>
 
