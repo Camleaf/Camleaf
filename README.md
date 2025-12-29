@@ -4,9 +4,9 @@
 
 
 <div style="text-align:center;">
-<h3> I'm a high school student and aspiring software engineer</h3>
-<p> 🌱 I’m currently learning CAD and PCB design softwares </p>
-<p> 🔭 I’m currently working on some small school coding projects.
+<h3> I'm a high school student and aspiring engineer</h3>
+<p> 🌱 I’m currently learning more about SQL</p>
+<p> 🔭 I’m currently working on a redesign of the Mechmania website.
 
 </div>
 
