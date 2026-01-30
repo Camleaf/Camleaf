@@ -5,9 +5,7 @@
 
 <div style="text-align:center;">
 <h3> I'm a high school student and aspiring engineer</h3>
-<p> 🌱 I’m currently learning more about SQL</p>
-<p> 🔭 I’m currently working on a redesign of the Mechmania website and I'm building one myself
-
+<p> 🌱 I’m currently learning CADding softwares like Solidworks</p>
 </div>
 
 <h3> What I'm involved with:</h3>
