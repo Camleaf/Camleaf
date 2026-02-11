@@ -5,7 +5,7 @@
 
 <div style="text-align:center;">
 <h3> I'm a high school student and aspiring engineer</h3>
-<p> 🌱 I’m currently learning CADding softwares like Solidworks, and c++</p>
+<p> 🌱 I’m currently learning CADding softwares like Solidworks, and c++ for microcontroller programming</p>
 </div>
 
 <h3> What I'm involved with:</h3>
